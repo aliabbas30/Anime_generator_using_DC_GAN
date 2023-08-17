@@ -34,7 +34,3 @@ pip install -r requirement.txt
 
 ### Note: The theory of the model is also added Theory.md file to better understand the code. 
 
-
-```python
-
-```
