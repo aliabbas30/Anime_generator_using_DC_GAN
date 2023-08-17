@@ -23,7 +23,7 @@ This is a dataset consisting of 21551 anime faces scraped from www.getchu.com. A
 
 ## Flow of the Model
 
-![41598_2022_9929_Fig1_HTML.png](attachment:41598_2022_9929_Fig1_HTML.png)
+![41598_2022_9929_Fig1_HTML](https://github.com/aliabbas30/Anime_generator_using_DC_GAN/assets/102746791/a33a4cf3-7546-4678-b643-6f2935611dea)
 
 
 - To download the required libraries use requirement.txt
